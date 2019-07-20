@@ -1,5 +1,5 @@
 # hallo-world
-Hallo World example
+Hallo World Beispiel
 
 Testumgebung Unterordner docs
 
